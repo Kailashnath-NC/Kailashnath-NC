@@ -10,7 +10,7 @@ I'm a passionate front-end developer with a love for React development. Currentl
 <!-- - 🤔 I’m looking for help with ... -->
 - 🌱 I’m currently learning **Fullstack Development**
 - 💬 Ask me about **Front-end Development**
-- 📫 Connect with me: **kiluslearns@gmail.com**
+- 📫 Connect with me: **kailashnathnc@gmail.com**
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
